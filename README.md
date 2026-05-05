@@ -1,10 +1,5 @@
 # Learning-JavaScript
 learning javaScript and practice 
-Since you’ve been working with the **MERN stack** and projects like your **Civic Report** app, your JavaScript README should look a bit more advanced. It should show that you understand both the logic of the language and how it connects to the web.
-
-Here is a professional template for your JavaScript learning repository:
-
----
 
 ## # Modern JavaScript Mastery
 This repository contains my journey through JavaScript, moving from basic logic to advanced asynchronous programming and DOM manipulation.
