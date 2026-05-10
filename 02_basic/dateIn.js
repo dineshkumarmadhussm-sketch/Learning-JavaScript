@@ -20,4 +20,11 @@ console.log(Math.floor(Date.now()/1000));
 
 let myDate2 = new Date()
 console.log(myDate2);
+console.log(myDate2.getMonth()+1);
+console.log(myDate.getDay()+1);
+
+nweDate.toLocaleString('default' ,{
+  weekday:"long",
+  
+})
 
