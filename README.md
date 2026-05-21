@@ -62,16 +62,3 @@ This repository contains my journey through JavaScript, moving from basic logic 
 - [ ] Advanced Design Patterns
 - [ ] Unit Testing with Jest
 
----
-
-<<<<<<< HEAD
-
-=======
-### Why this is effective for you:
-  **MERN Ready:** By highlighting **Async/Await** and **API fetching**, you are proving you have the foundation needed for React and Node.js development.
-   **Visual Roadmap:** The "Learning Roadmap" section is great for recruiters to see that you are an active learner who tracks their own progress.
-  **Versatility:** It shows you can run JavaScript both in the browser (Frontend) and in Node.js (Backend).
-
-Are you currently focusing more on **Vanilla JavaScript** (the language itself) or are you diving straight into **React** hooks and components?
-```
->>>>>>> 6b5bc32 (string)
